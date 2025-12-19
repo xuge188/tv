@@ -1,7 +1,7 @@
 {
     "spider": "./spider.jar",
     "wallpaper": "https://i0.hdslb.com/bfs/new_dyn/d512eadb60be5cf999b0df5074260ece522628429.jpg@.webp",
-    "logo": "https://i0.hdslb.com/bfs/new_dyn/4870f78c8757be6d9ab2614999b0eff61083307557.gif",
+    "logo": "https://i0.hdslb.com/bfs/new_dyn/ee2fd2ef029542ebb4eb102e4ae48a2a1083307557.gif",
     "sites": [
         {
             "key": "豆瓣",
@@ -962,4 +962,5 @@
     "ads": [
         "static-mozai.4gtv.tv"
     ]
+
 }
