@@ -230,11 +230,11 @@
             "key": "盘库",
             "name": "📀盘库┃旭叔",
             "type": 3,
-            "api": "csp_Panku",
+            "api": "csp_PanSou",
             "changeable": 0,
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "quickSearch": 0,
+            "filterable": 0
         },
         {
       "key": "音海",
@@ -964,4 +964,5 @@
     ]
 
 }
+
 
