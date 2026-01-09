@@ -99,19 +99,6 @@
             "playerType": 2
         },
         {
-            "key": "金牌",
-            "name": "🐼火猫┃旭叔",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppQi",
-            "ext": {
-                "site": "https://dtqj1.gg1080.com:443/dtjp.txt",
-                "dataKey": "kecbio48dsq131ed",
-                "dataIv": "kecbio48dsq131ed"
-            }
-        },
-      {
       "key": "农民影视",
       "name": "👨‍🌾农民┃旭叔",
       "type": 3,
@@ -121,6 +108,13 @@
       "filterable": 1,
       "ext": "./XBPQ/农民影视.json"
     },
+        {
+            "key": "韩剧看看",
+            "name": "📺韩剧┃旭叔",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./XBPQ/韩剧看看.json"
+        },
     {
       "key": "小斑快映",
       "name": "📽快映┃旭叔",
@@ -333,19 +327,11 @@
             "ext": "./json/km.json"
         },
     {
-            "key": "夸圈",
-            "name": "🧿夸圈┃旭叔",
+            "key": "趣盘搜",
+            "name": "🧿夸搜┃旭叔",
             "type": 3,
-            "api": "csp_PanWebShareCloudKQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./json/kq.json"
+            "api": "csp_QuPanSo",
+            "changeable": 0
         },
         {
             "key": "盘库夸克",
@@ -485,12 +471,15 @@
             }
         },
         {
-            "key": "趣盘搜",
-            "name": "📡夸搜┃旭叔",
-            "type": 3,
-            "api": "csp_QuPanSo",
-            "changeable": 0
-        },
+      "key": "音海优汐",
+      "name": "🎨优汐┃旭叔",
+      "type": 3,
+      "api": "csp_YinHaiUC",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
         {
             "key": "荐片",
             "name": "🧲荐片┃旭叔",
@@ -964,5 +953,6 @@
     ]
 
 }
+
 
 
