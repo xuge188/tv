@@ -450,11 +450,14 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-                "site": [
-                    "https://woog.nxog.eu.org"
-                ]
-            }
-        },
+        "site": [
+          "https://woog.nxog.eu.org",
+          "https://woog.nxog.fun",
+          "https://woog.nxog.eu.org",
+          "https://woog.430520.xyz"
+        ]
+      }
+    },
         {
       "key": "虎斑",
       "name": "🐯小虎┃旭叔",
@@ -617,6 +620,47 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
+        {
+      "key": "夸客云盘",
+      "name": "📧我的┃夸客",
+      "type": 3,
+      "api": "csp_PanQuark",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "./json/quarkShare.json"
+    },
+    {
+      "key": "优汐云盘",
+      "name": "📧我的┃优汐",
+      "type": 3,
+      "api": "csp_PanUc",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "./json/ucShare.json"
+    },
+    {
+      "key": "佰渡云盘",
+      "name": "📧我的┃佰渡",
+      "type": 3,
+      "api": "csp_PanBaiDu",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      }
+    },
        {
             "key": "push_agent",
             "name": "📱手机┃推送",
@@ -953,6 +997,7 @@
     ]
 
 }
+
 
 
 
