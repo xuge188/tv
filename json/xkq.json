@@ -1,0 +1,22 @@
+{
+    "SiteUrl": "https://www.quskt.com",
+    "Classes": [
+        {
+            "type_name": "电影",
+            "type_id": "9"
+        },
+        {
+            "type_name": "剧集",
+            "type_id": "1"
+        },
+        {
+            "type_name": "动漫",
+            "type_id": "3"
+        },
+        {
+            "type_name": "短剧",
+            "type_id": "2"
+        }
+    ],
+    "Cookie": "bbs_sid=41m0iuhj3caccvlrmb39mvg0ih;bbs_token=SVmpYfjH4BdBgiZdNrD2wQqJz_2FBCf45shGekSqXTIJex_2FC4h"
+}
