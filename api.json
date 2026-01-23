@@ -301,7 +301,7 @@
       "key": "夸父",
       "name": "🧿夸父┃旭叔",
       "type": 3,
-      "api": "csp_PanWebShareCloudKF",
+      "api": "csp_PanWebShareCloudXKF",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -310,7 +310,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./json/kf.json"
+      "ext": "./json/xkf.json"
     },
     {
             "key": "夸母",
@@ -1000,6 +1000,7 @@
     ]
 
 }
+
 
 
 
