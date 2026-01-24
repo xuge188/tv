@@ -123,15 +123,12 @@
             "playerType": 2
         },
         {
-      "key": "农民影视",
-      "name": "👨‍🌾农民┃旭叔",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/农民影视.json"
-    },
+            "key": "农民影视",
+            "name": "👨‍🌾农民┃旭叔",
+            "type": 3,
+            "api": "csp_Wwys",
+            "ext": "https://vip.wwgz.cn:5200"
+        },
         {
             "key": "韩剧看看",
             "name": "📺韩剧┃旭叔",
@@ -1024,6 +1021,7 @@
     ]
 
 }
+
 
 
 
