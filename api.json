@@ -186,6 +186,35 @@
             "api": "./py/皮虾影视.py",
             "ext": "http://38.55.237.41:8762"
         },
+        {
+      "key": "好人影视",
+      "name": "🕵️‍♂️好人┃旭叔",
+      "type": 3,
+      "api": "./py/人人影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "世界影视",
+      "name": "🌍世界┃旭叔",
+      "type": 3,
+      "api": "./py/界界影视.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 1
+    }, 
+    {
+            "key": "骚火影视",
+            "name": "🔥骚火┃旭叔",
+            "type": 3,
+            "api": "csp_SaoHuo",
+            "changeable": 0,
+            "playerType": 2,
+            "ext": "https://shdy5.us,https://shdy2.com"
+        },
     {
       "key": "小斑快映",
       "name": "📽快映┃旭叔",
@@ -732,6 +761,38 @@
             }
         },
         {
+            "key": "漫国动漫",
+            "name": "👼漫国┃动漫",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_AppSy",
+            "ext": {
+                "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
+                "siteKey": "rectangleadsadxa",
+                "listKey": "aassddwwxxllsx1x",
+                "parsesKey": "aassddwwxxllsx1x"
+            }
+        },
+        {
+            "key": "番薯动漫",
+            "name": "👼番薯┃动漫",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://new.app.bytegooty.com",
+                "dataKey": "N4yj7l7xKxHF4*gz",
+                "dataIv": "N4yj7l7xKxHF4*gz"
+            }
+        },
+        {
+            "key": "樱花动漫",
+            "name": "👼樱花┃动漫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./XBPQ/樱花动漫.json"
+        },
+        {
       "key": "夸客云盘",
       "name": "🗂我的┃夸客",
       "type": 3,
@@ -1108,6 +1169,7 @@
     ]
 
 }
+
 
 
 
