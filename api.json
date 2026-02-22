@@ -206,15 +206,42 @@
       "filterable": 0,
       "changeable": 1
     }, 
+     {
+      "key": "林中小屋",
+      "name": "🔥骚火┃旭叔",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "http://m51.gotto.top/api.php/v1.vod"
+    },
     {
-            "key": "骚火影视",
-            "name": "🔥骚火┃旭叔",
-            "type": 3,
-            "api": "csp_SaoHuo",
-            "changeable": 0,
-            "playerType": 2,
-            "ext": "https://shdy5.us,https://shdy2.com"
-        },
+      "key": "藤藤",
+      "name": "⛅腾讯┃旭叔",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./XBPQ/藤藤.png"
+    },
+    {
+      "key": "茫茫",
+      "name": "🥭芒果┃旭叔",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./XBPQ/茫茫.png"
+    },
+    {
+      "key": "秒看",
+      "name": "🌅晴天┃旭叔",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "https://mk1080.top/get.txt",
+        "dataKey": "c60d88b2eep53za8",
+        "dataIv": "c60d88b2eep53za8",
+        "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa",
+        "ua": "okhttp/3.14.9"
+      }
+    },
     {
       "key": "小斑快映",
       "name": "📽快映┃旭叔",
@@ -1174,6 +1201,7 @@
     ]
 
 }
+
 
 
 
