@@ -45,18 +45,19 @@
             }
         },
        {
-      "key": "假段友get",
-      "name": "🏄‍♂️浪酷┃旭叔",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://shangjihuoke.com",
-        "dataKey": "8E2DC386FD452D05",
-        "dataIv": "8E2DC386FD452D05"
-      }
-    },
+            "key": "小猪",
+            "name": "🏄‍♂️浪酷┃旭叔",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/xinjian.txt",
+                "dataKey": "k5t2fp3h9d25hn9y",
+                "dataIv": "k5t2fp3h9d25hn9y",
+                "ua": "okhttp/3.10.0"
+            }
+        },
     {
             "key": "金牌影视",
             "name": "🥇金牌┃旭叔",
@@ -1185,6 +1186,7 @@
     ]
 
 }
+
 
 
 
