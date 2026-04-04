@@ -45,19 +45,16 @@
             }
         },
        {
-            "key": "小猪",
-            "name": "🏄‍♂️浪酷┃旭叔",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/xinjian.txt",
-                "dataKey": "k5t2fp3h9d25hn9y",
-                "dataIv": "k5t2fp3h9d25hn9y",
-                "ua": "okhttp/3.10.0"
-            }
-        },
+      "key": "聚搜浪酷",
+      "name": "🏄‍浪酷┃旭叔",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      },
+      "api": "./py/聚搜影视.py",
+      "ext": "http://43.248.117.123:4680"
+    },
     {
             "key": "金牌影视",
             "name": "🥇金牌┃旭叔",
