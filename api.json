@@ -711,38 +711,6 @@
             }
         },
         {
-            "key": "漫国动漫",
-            "name": "👼漫国┃动漫",
-            "type": 3,
-            "searchable": 1,
-            "api": "csp_AppSy",
-            "ext": {
-                "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
-                "siteKey": "rectangleadsadxa",
-                "listKey": "aassddwwxxllsx1x",
-                "parsesKey": "aassddwwxxllsx1x"
-            }
-        },
-        {
-            "key": "番薯动漫",
-            "name": "👼番薯┃动漫",
-            "type": 3,
-            "searchable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://new.app.bytegooty.com",
-                "dataKey": "N4yj7l7xKxHF4*gz",
-                "dataIv": "N4yj7l7xKxHF4*gz"
-            }
-        },
-        {
-            "key": "樱花动漫",
-            "name": "👼樱花┃动漫",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./XBPQ/樱花动漫.json"
-        },
-        {
             "key": "夸客云盘",
             "name": "🗂我的┃夸客",
             "type": 3,
