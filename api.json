@@ -59,17 +59,11 @@
             "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
         {
-            "key": "秒看",
-            "name": "🍎苹果┃旭叔",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "site": "https://mk1080.top/get.txt",
-                "dataKey": "c60d88b2eep53za8",
-                "dataIv": "c60d88b2eep53za8",
-                "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa",
-                "ua": "okhttp/3.14.9"
-            }
+      "key": "皮虾",
+      "name": "🍎苹果┃旭叔",
+      "type": 3,
+      "api": "./py/皮虾.py",
+      "ext": "http://154.94.224.98:8762"
         },
         {
             "key": "瓜子",
